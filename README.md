@@ -49,5 +49,15 @@ Conclui o ensino médio agregado com o técnico em multimídia em 2023. Atualmen
 A tag `<!DOCTYPE html>` indica a versão do HTML no documento 
 
 A tag `<hmtl lang="pt-BR">` indica o início do documento HTML, O atributo `lang="pt-BR" indica o idioma da página 
+
+### Tabela de proficiência em línguas 
+
+Idioma | Nível
+:-------: | :-------:
+Inglês | Intermediário (B1)
+Espanhol | Básico 
+
+
+
 ### Contato 
 Email: Jpfserafim72@gmail.com 
