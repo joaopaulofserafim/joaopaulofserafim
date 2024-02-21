@@ -17,7 +17,7 @@ Conclui o ensino médio agregado com o técnico em multimídia em 2023. Atualmen
 * Css (Básico
 
 ## Citação 
-<p>  A vida é muito curta para esperar, Faça acontecer  </p>
+<p>  A vida é muito curta para esperar, Faça acontecer </p>
 
 
 
