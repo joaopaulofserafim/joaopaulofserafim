@@ -54,7 +54,7 @@ A tag `<hmtl lang="pt-BR">` indica o início do documento HTML, O atributo `lang
 
 Idioma | Nível
 :-------: | :-------:
-Inglês | Intermediário (B1)
+Inglês | Intermediário (A2)
 Espanhol | Básico 
 
 
