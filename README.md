@@ -1,9 +1,11 @@
 
-# Olá Pessoal
+#  Olá, Me chamo João Paulo.
+
 <div align="center">
+   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=transparent)
+
 </div>
-<p align="justify"> Olá, Me chamo João Paulo e tenho 17 anos.
 
 ## Formação 
 Conclui o ensino médio agregado com o técnico em multimídia em 2023. Atualmente sou aluno do curso <i> Desenvolvedor Front-End </i>,parceria com a <strong> Ford Motor Company Fund </strong> e o <strong> SENAI </strong> [Ford inicia terceira turma de programa de capacitação em linguagem de programação]
