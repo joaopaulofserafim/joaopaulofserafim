@@ -1,8 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=transparent)
-
 
 # Olá Pessoal
-
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=transparent)
+</div>
 <p align="justify"> Olá, Me chamo João Paulo e tenho 17 anos.
 
 ## Formação 
