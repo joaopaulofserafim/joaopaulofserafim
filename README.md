@@ -7,6 +7,17 @@
 
 </div>
 
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=transparent)
+
+</div>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofserafim&layout=compact&theme=transparent)
+
+</div>
+
+
 ## Formação 
 Conclui o ensino médio agregado com o técnico em multimídia em 2023. Atualmente sou aluno do curso <i> Desenvolvedor Front-End </i>,parceria com a <strong> Ford Motor Company Fund </strong> e o <strong> SENAI </strong> [Ford inicia terceira turma de programa de capacitação em linguagem de programação]
 
