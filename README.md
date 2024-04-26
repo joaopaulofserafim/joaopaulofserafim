@@ -30,10 +30,15 @@ Conclui o ensino médio agregado com o técnico em multimídia em 2023. Atualmen
 ## Aprendizados 
 * Adobe Photoshop
 * Adobe Illustrator
-* Excel (Básico)
-* Word (Básico)
-* HTML (Básico)
-* Css (Básico
+* Adobe After Effetc 
+* Excel 
+* Word
+* PowerPoint 
+* HTML 
+* Css
+* JavaScript
+* Scrum
+* Git
 
 ## Citação 
 <p>  A vida é muito curta para esperar, Faça acontecer </p>
