@@ -37,6 +37,7 @@ Conclui o ensino médio agregado com o técnico em multimídia em 2023. Atualmen
 * HTML 
 * Css
 * JavaScript
+* PowerShell
 * Scrum
 * Git
 
