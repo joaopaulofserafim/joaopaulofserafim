@@ -52,27 +52,7 @@ Conclui o ensino médio agregado com o técnico em multimídia em 2023. Atualmen
 
 
 
-
-
-### Tags aprendidas HTML
-
-
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-   <head>
-   <meta charset="UTF-8">
-   <title> Minha Página </title>
-   </head>
-   <body>
-   <h1> Minha Página </h1>
-   <p> Meu Parágrafo</p>
-   </body>
-  </html>
-```
-A tag `<!DOCTYPE html>` indica a versão do HTML no documento 
-
-A tag `<hmtl lang="pt-BR">` indica o início do documento HTML, O atributo `lang="pt-BR" indica o idioma da página 
+   
 
 ### Tabela de proficiência em línguas 
 
