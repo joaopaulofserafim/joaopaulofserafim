@@ -10,8 +10,8 @@
 
 <div align="center">
    
-[![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=dark#gh-dark-mode-only)]
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/joaopaulofserafim/github-readme-stats#gh-light-mode-only)
+![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=dark#gh-dark-mode-only)]
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/joaopaulofserafim/github-readme-stats#gh-light-mode-only)
 </div>
 
 
