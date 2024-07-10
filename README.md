@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofserafim)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofserafim&layout=donut)](https://github.com/joaopaulofserafim/github-readme-stats)
 
 </div>
 <h1>Utilizando atualmente:</h1>
