@@ -16,11 +16,11 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofserafim&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofserafim)
 
 </div>
 <h1>Utilizando atualmente:</h1>
-<div align="center" style="display: inline_block"><br/>
+<div align="center" style="display: inine_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img align="center" alt="" src="https://img.shields.io/badge/CSS-239120?&style=for-the-
 badge&logo=css3&logoColor=white"/>
