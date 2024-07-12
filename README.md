@@ -21,9 +21,6 @@
    
 ![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=transparent)
 
-
-
-
 <div align="center">
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofserafim&layout=donut)](https://github.com/joaopaulofserafim/github-readme-stats)
