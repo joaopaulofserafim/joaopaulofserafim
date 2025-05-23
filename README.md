@@ -53,8 +53,28 @@ badge&logo=css3&logoColor=white"/>
 ## Citação 
 <p>  A vida é muito curta para esperar, Faça acontecer </p>
 
+## Formação Acadêmica e Profissional
+
+Atualmente, curso a graduação em Análise e Desenvolvimento de Sistemas no Senac Nações Unidas, em São Paulo (previsão de conclusão: junho de 2027). Durante a graduação, venho estudando e aplicando linguagens e ferramentas como Java, MySQL, Python, React e Node.
+
+Concluí o Ensino Médio Técnico em Multimídia também no Senac Nações Unidas, onde desenvolvi diversas soft skills e hard skills importantes para o mercado de trabalho.
+
+Participei de um curso profissionalizante de Desenvolvimento Web Front-End, oferecido pelo Senai, em parceria com a Ford Company, aprimorando minhas habilidades em tecnologias de interface.
 
 
+## Certificações e Cursos Complementares
+
+Atualmente, estou realizando um Nano Curso em Cybersecurity pela FIAP, além de ter concluído o curso de Fundamentos do Hardware do Computador pela Cisco Networking Academy, no Centro Universitário Senac (conclusão: maio de 2025).
+
+Possuo certificações nas seguintes áreas:
+
+Desenvolvimento Web: HTML, CSS, JavaScript (conclusão: julho de 2024)
+
+Versionamento de Código: Git, GitHub (conclusão: julho de 2024)
+
+Metodologias Ágeis: Scrum (conclusão: julho de 2024)
+
+Softwares: Visual Studio Code e Microsoft 365 (conclusão: julho de 2024)
 
 
 
