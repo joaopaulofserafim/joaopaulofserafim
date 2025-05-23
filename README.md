@@ -14,9 +14,6 @@
 </div>
 
 
-
-
-
 <div align="center">
    
 ![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulofserafim&show_icons=true&theme=transparent)
@@ -38,22 +35,16 @@ badge&logo=css3&logoColor=white"/>
     <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-## Formação 
-Conclui o ensino médio agregado com o técnico em multimídia em 2023. Atualmente sou aluno do curso <i> Desenvolvedor Front-End </i>,parceria com a <strong> Ford Motor Company Fund </strong> e o <strong> SENAI </strong> [Ford inicia terceira turma de programa de capacitação em linguagem de programação]
-
-![Turma Ford <Enter>](https://automobilistica.sp.senai.br/6755/programa-ford-enter)
-
 
 ## Aprendizados 
-* Adobe Photoshop
-* Adobe Illustrator
-* Adobe After Effetc 
-* Excel 
-* Word
-* PowerPoint 
+
+* Microsoft 365
 * HTML 
 * CSS
 * JavaScript
+* Java (Em aprendizagem)
+* Python (Em aprendizagem)
+* React (Em aprendizagem)
 * PowerShell
 * Scrum
 * Git
